@@ -2,7 +2,10 @@
 
 # [PU2CLR SI4735 Library for Arduino](https://pu2clr.github.io/SI4735/)
 
-[Se você estiver entendendo este texto, talvez queira ler este documento em Português](https://pu2clr.github.io/SI4735/extras/docbr/)
+This instance of the PU2CLR_SI4735 library is slightly modified in the downloadPatchFromEeprom function. Additional status information on whether or not the SSB patch in the EEPROM was successfully transferred to the SI4735.
+Nearly all examples have been removed to save space.
+
+_All links in this README are unmodified and are directing to the original GitHub repo._
 
 # Preface
 
